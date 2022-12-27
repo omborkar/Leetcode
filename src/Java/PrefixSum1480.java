@@ -1,3 +1,5 @@
+package Java;
+
 public class PrefixSum1480 {
 //    class Solution {
         public int[] runningSum(int[] nums) {

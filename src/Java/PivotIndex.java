@@ -1,3 +1,5 @@
+package Java;
+
 public class PivotIndex {
 //    class Solution {
         public int pivotIndex(int[] nums) {

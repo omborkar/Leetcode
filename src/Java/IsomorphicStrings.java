@@ -1,8 +1,11 @@
+package Java;
+
 import java.util.HashMap;
 
 public class IsomorphicStrings {
 
 //    class Solution {
+
         public boolean isIsomorphic(String s, String t) {
             if(s.length()!=t.length()){
                 return false;
@@ -27,6 +30,7 @@ public class IsomorphicStrings {
                     }
                 }
             }
+            System.out.println("om");
             return true;
         }
 //    }
