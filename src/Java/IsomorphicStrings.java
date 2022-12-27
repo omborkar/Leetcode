@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class IsomorphicStrings {
 
-//    class Solution {
+//    class Solution uncomment for leetcode editor{
 
         public boolean isIsomorphic(String s, String t) {
             if(s.length()!=t.length()){

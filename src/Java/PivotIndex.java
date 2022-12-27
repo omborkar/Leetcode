@@ -1,7 +1,7 @@
 package Java;
 
 public class PivotIndex {
-//    class Solution {
+//    class Solution uncomment for leetcode editor{
         public int pivotIndex(int[] nums) {
             int sum = 0;
             for(int i=0;i<nums.length;i++){
